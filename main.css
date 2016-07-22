@@ -1,0 +1,24 @@
+#linea{
+	background:black;
+	width: 150px;
+	height: 5px;
+	margin: 0px;
+}
+.cuerpo{
+	display: block;
+	width: 710px;
+	height: 500px;
+}
+.img1{
+	margin: 10px;
+	display: inline-block;
+	position: relative;
+}
+.nombre{
+	position: absolute;
+	color: white;
+	bottom: 0px;
+	right: 0px;
+
+
+}
