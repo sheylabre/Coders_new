@@ -20,6 +20,12 @@
 	color: white;
 	bottom: 0px;
 	right: 0px;
-
-
+}
+img{
+	opacity: 1;
+	filter: 1;
+}
+img:hover{
+	opacity: 0.5;
+	filter: 1;
 }
